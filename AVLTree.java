@@ -9,7 +9,7 @@ public class AVLTree {
 		Node left;
 		Node right;
 		int height = 0;
-	}
+	} // test
 
 	private Node root;
 	private int size = 0;
